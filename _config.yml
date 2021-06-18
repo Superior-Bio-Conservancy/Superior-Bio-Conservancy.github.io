@@ -10,7 +10,7 @@ description: "Making change one stick at a time."
 color:
   primary-dark: '#345480'
   primary-light: '#eee5c7'
-  links: '#b70101'
+  links: '#345480'
 
 # Footer settings
 footer: Superior Bio-Conservancy
