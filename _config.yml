@@ -1,19 +1,19 @@
 # Site settings
 
-title: Williams Lab
-email: jwwilliams1@wisc.edu
-url: https://williamspaleolab.github.io
-description: "Paleoecology - Paleoecoinformatics - Global Climate Change - Quaternary Environments."
+title: Superior Bio-Conservancy
+email: rboucher1@me.com
+url: https://superior-bio-conservancy.github.io/
+description: "Making change one stick at a time."
 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#b70101'
+  primary-dark: '#345480'
   primary-light: '#eee5c7'
   links: '#b70101'
 
 # Footer settings
-footer: Williams Paleo Lab
+footer: Superior Bio-Conservancy
 
 # # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
